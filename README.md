@@ -27,7 +27,7 @@ To do this I have used Deep Learning algorithms like **VGG16, Resnets and Incept
 
 To improve the accuracy I have also used various data preprocessing and Transfer Learning methods and ensemble methods.
 
-** I have made the python notebook highly descriptive, so please go through it to understand it clearly**
+**I have made the python notebook highly descriptive, so please go through it to understand it clearly**
 
 
 ## Results
